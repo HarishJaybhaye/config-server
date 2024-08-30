@@ -1,3 +1,5 @@
+application: 
+       name: CONFIG-SERVICE
  eureka: 
    instanse:
       prefer-ip-address: true
