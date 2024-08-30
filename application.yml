@@ -1,7 +1,7 @@
 spring:
    application: 
       name: DEFAULT-SERVICE
- eureka: 
+eureka: 
    instanse:
       prefer-ip-address: true
    client:
